@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-page -d src"
+    "deploy": "gh-pages -d src"
   },
   "author": "",
   "license": "ISC",
   "keywords": [],
-  "dependencies": {
+  "devDependencies": {
     "gh-pages": "^5.0.0"
   }
 }
